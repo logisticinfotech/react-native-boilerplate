@@ -1,3 +1,9 @@
+<p align="left">
+  <a href="https://www.logisticinfotech.com/blog/react-navigation-routing-react-native/"><img alt="npm version" src="https://img.shields.io/badge/npm-v4.0.0.0-green.svg"></a>
+  <a href="https://www.logisticinfotech.com/blog/react-navigation-routing-react-native/"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
+</p>
+
+
 # react-native-boilerplate
 
 Project starting and set up is always crucial and time consuming task because we may need to take care of many thing and need to add our regular utilities we are using with all projects. Its will be better to create single project with all these requirements and keep it updated to time to time with new updates. Starterkit or boiler plate of any framework will save lots of time and we are able to start directly with requirements without worriying about initial setup for project.
